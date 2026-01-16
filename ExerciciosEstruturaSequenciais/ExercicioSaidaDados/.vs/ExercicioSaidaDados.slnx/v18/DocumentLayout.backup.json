@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\ExerciciosEstruturaSequenciais\\ExercicioSaidaDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D403615-19FC-3BEC-8C5A-201EAF8ABDA5}|ExercicioSaidaDados\\ExercicioSaidaDados.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\exerciciosestruturasequenciais\\exerciciosaidadados\\exerciciosaidadados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D403615-19FC-3BEC-8C5A-201EAF8ABDA5}|ExercicioSaidaDados\\ExercicioSaidaDados.csproj|solutionrelative:exerciciosaidadados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\ExerciciosEstruturaSequenciais\\ExercicioSaidaDados\\ExercicioSaidaDados\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioSaidaDados\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\ExerciciosEstruturaSequenciais\\ExercicioSaidaDados\\ExercicioSaidaDados\\Program.cs",
+              "RelativeToolTip": "ExercicioSaidaDados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:07:14.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
