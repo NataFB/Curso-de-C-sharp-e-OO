@@ -2,7 +2,7 @@
 using System.Globalization;
 namespace Course
 {
-    class Program
+    class ExercicioEntradaDados
     {
         static void Main(string[] args)
         {
