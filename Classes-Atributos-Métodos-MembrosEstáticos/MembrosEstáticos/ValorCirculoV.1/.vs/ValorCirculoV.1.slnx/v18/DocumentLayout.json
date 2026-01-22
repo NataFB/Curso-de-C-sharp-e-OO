@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7358DB1E-973D-47C3-8E31-D98F3283E57A}|ValorCirculoV.1\\ValorCirculoV.1.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\valorcirculov.1\\valorcirculov.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7358DB1E-973D-47C3-8E31-D98F3283E57A}|ValorCirculoV.1\\ValorCirculoV.1.csproj|solutionrelative:valorcirculov.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.1\\ValorCirculoV.1\\Program.cs",
+              "RelativeDocumentMoniker": "ValorCirculoV.1\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.1\\ValorCirculoV.1\\Program.cs",
+              "RelativeToolTip": "ValorCirculoV.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:32:53.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
