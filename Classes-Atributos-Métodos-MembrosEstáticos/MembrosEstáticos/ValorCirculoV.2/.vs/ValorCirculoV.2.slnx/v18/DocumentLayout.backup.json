@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{338AA6CA-F690-40E3-856E-B2E5F2B68042}|ValorCirculoV.2\\ValorCirculoV.2.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\valorcirculov.2\\valorcirculov.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338AA6CA-F690-40E3-856E-B2E5F2B68042}|ValorCirculoV.2\\ValorCirculoV.2.csproj|solutionrelative:valorcirculov.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338AA6CA-F690-40E3-856E-B2E5F2B68042}|ValorCirculoV.2\\ValorCirculoV.2.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\valorcirculov.2\\valorcirculov.2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338AA6CA-F690-40E3-856E-B2E5F2B68042}|ValorCirculoV.2\\ValorCirculoV.2.csproj|solutionrelative:valorcirculov.2\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.2\\ValorCirculoV.2\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ValorCirculoV.2\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.2\\ValorCirculoV.2\\Calculadora.cs",
+              "RelativeToolTip": "ValorCirculoV.2\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:07:35.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.2\\ValorCirculoV.2\\Program.cs",
+              "RelativeDocumentMoniker": "ValorCirculoV.2\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoV.2\\ValorCirculoV.2\\Program.cs*",
+              "RelativeToolTip": "ValorCirculoV.2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:48:19.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

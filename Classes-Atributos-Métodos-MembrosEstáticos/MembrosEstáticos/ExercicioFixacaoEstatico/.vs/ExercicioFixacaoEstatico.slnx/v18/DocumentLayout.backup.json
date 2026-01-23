@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacaoEstatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72369341-494C-4213-ADBE-B783D69F9CC2}|ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\exerciciofixacaoestatico\\exerciciofixacaoestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72369341-494C-4213-ADBE-B783D69F9CC2}|ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico.csproj|solutionrelative:exerciciofixacaoestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72369341-494C-4213-ADBE-B783D69F9CC2}|ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\exerciciofixacaoestatico\\exerciciofixacaoestatico\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72369341-494C-4213-ADBE-B783D69F9CC2}|ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico.csproj|solutionrelative:exerciciofixacaoestatico\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversordeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico\\ConversordeMoeda.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoEstatico\\ConversordeMoeda.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico\\ConversordeMoeda.cs*",
+              "RelativeToolTip": "ExercicioFixacaoEstatico\\ConversordeMoeda.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:36:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoEstatico\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacaoEstatico\\ExercicioFixacaoEstatico\\Program.cs*",
+              "RelativeToolTip": "ExercicioFixacaoEstatico\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:30:32.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

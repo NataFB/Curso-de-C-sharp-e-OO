@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoEstatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675B320E-409E-4F4E-84BF-5FD28E396338}|ValorCirculoEstatico\\ValorCirculoEstatico.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\valorcirculoestatico\\valorcirculoestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675B320E-409E-4F4E-84BF-5FD28E396338}|ValorCirculoEstatico\\ValorCirculoEstatico.csproj|solutionrelative:valorcirculoestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675B320E-409E-4F4E-84BF-5FD28E396338}|ValorCirculoEstatico\\ValorCirculoEstatico.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\valorcirculoestatico\\valorcirculoestatico\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675B320E-409E-4F4E-84BF-5FD28E396338}|ValorCirculoEstatico\\ValorCirculoEstatico.csproj|solutionrelative:valorcirculoestatico\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoEstatico\\ValorCirculoEstatico\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ValorCirculoEstatico\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoEstatico\\ValorCirculoEstatico\\Calculadora.cs",
+              "RelativeToolTip": "ValorCirculoEstatico\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:25:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoEstatico\\ValorCirculoEstatico\\Program.cs",
+              "RelativeDocumentMoniker": "ValorCirculoEstatico\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ValorCirculoEstatico\\ValorCirculoEstatico\\Program.cs",
+              "RelativeToolTip": "ValorCirculoEstatico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:24:59.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

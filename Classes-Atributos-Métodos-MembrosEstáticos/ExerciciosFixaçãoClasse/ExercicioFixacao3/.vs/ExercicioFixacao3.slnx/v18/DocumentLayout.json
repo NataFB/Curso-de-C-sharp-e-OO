@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacao3\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExerciciosFixa\u00E7\u00E3oClasse\\ExercicioFixacao3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA691B75-8BB5-4609-B00B-E26BC2730C70}|ExercicioFixacao3\\ExercicioFixacao3.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\exerciciofixacao3\\exerciciofixacao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA691B75-8BB5-4609-B00B-E26BC2730C70}|ExercicioFixacao3\\ExercicioFixacao3.csproj|solutionrelative:exerciciofixacao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09AEF557-4F08-994B-8DB7-145271AF152B}|ExercicioFixacao3\\ExercicioFixacao3.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\exerciciosfixa\u00E7\u00E3oclasse\\exerciciofixacao3\\exerciciofixacao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AEF557-4F08-994B-8DB7-145271AF152B}|ExercicioFixacao3\\ExercicioFixacao3.csproj|solutionrelative:exerciciofixacao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA691B75-8BB5-4609-B00B-E26BC2730C70}|ExercicioFixacao3\\ExercicioFixacao3.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\exerciciofixacao3\\exerciciofixacao3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA691B75-8BB5-4609-B00B-E26BC2730C70}|ExercicioFixacao3\\ExercicioFixacao3.csproj|solutionrelative:exerciciofixacao3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09AEF557-4F08-994B-8DB7-145271AF152B}|ExercicioFixacao3\\ExercicioFixacao3.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\exerciciosfixa\u00E7\u00E3oclasse\\exerciciofixacao3\\exerciciofixacao3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AEF557-4F08-994B-8DB7-145271AF152B}|ExercicioFixacao3\\ExercicioFixacao3.csproj|solutionrelative:exerciciofixacao3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacao3\\ExercicioFixacao3\\Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExerciciosFixa\u00E7\u00E3oClasse\\ExercicioFixacao3\\ExercicioFixacao3\\Aluno.cs",
               "RelativeDocumentMoniker": "ExercicioFixacao3\\Aluno.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacao3\\ExercicioFixacao3\\Aluno.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExerciciosFixa\u00E7\u00E3oClasse\\ExercicioFixacao3\\ExercicioFixacao3\\Aluno.cs",
               "RelativeToolTip": "ExercicioFixacao3\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacao3\\ExercicioFixacao3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExerciciosFixa\u00E7\u00E3oClasse\\ExercicioFixacao3\\ExercicioFixacao3\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioFixacao3\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExercicioFixacao3\\ExercicioFixacao3\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\ExerciciosFixa\u00E7\u00E3oClasse\\ExercicioFixacao3\\ExercicioFixacao3\\Program.cs",
               "RelativeToolTip": "ExercicioFixacao3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
