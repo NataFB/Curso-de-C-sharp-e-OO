@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86983F-D225-4D3D-8D90-740F28E9B586}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\encapsulamento\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86983F-D225-4D3D-8D90-740F28E9B586}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A86983F-D225-4D3D-8D90-740F28E9B586}|Encapsulamento\\Encapsulamento.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\encapsulamento\\encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A86983F-D225-4D3D-8D90-740F28E9B586}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Encapsulamento\\Encapsulamento\\Produto.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Produto.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Encapsulamento\\Encapsulamento\\Produto.cs",
+              "RelativeToolTip": "Encapsulamento\\Produto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:36:02.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeToolTip": "Encapsulamento\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:35:02.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
