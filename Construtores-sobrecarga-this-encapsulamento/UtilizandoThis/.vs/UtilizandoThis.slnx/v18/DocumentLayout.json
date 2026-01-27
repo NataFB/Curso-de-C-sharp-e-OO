@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\UtilizandoThis\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\UtilizandoThis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D824834-1A68-44CD-8F84-4644A1E2BD13}|UtilizandoThis\\UtilizandoThis.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\utilizandothis\\utilizandothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D824834-1A68-44CD-8F84-4644A1E2BD13}|UtilizandoThis\\UtilizandoThis.csproj|solutionrelative:utilizandothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBCE4179-EAB1-99DC-20BA-D628DE32D891}|UtilizandoThis\\UtilizandoThis.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\utilizandothis\\utilizandothis\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCE4179-EAB1-99DC-20BA-D628DE32D891}|UtilizandoThis\\UtilizandoThis.csproj|solutionrelative:utilizandothis\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D824834-1A68-44CD-8F84-4644A1E2BD13}|UtilizandoThis\\UtilizandoThis.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\utilizandothis\\utilizandothis\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D824834-1A68-44CD-8F84-4644A1E2BD13}|UtilizandoThis\\UtilizandoThis.csproj|solutionrelative:utilizandothis\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBCE4179-EAB1-99DC-20BA-D628DE32D891}|UtilizandoThis\\UtilizandoThis.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\utilizandothis\\utilizandothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCE4179-EAB1-99DC-20BA-D628DE32D891}|UtilizandoThis\\UtilizandoThis.csproj|solutionrelative:utilizandothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\UtilizandoThis\\UtilizandoThis\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\UtilizandoThis\\UtilizandoThis\\Produto.cs",
               "RelativeDocumentMoniker": "UtilizandoThis\\Produto.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\UtilizandoThis\\UtilizandoThis\\Produto.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\UtilizandoThis\\UtilizandoThis\\Produto.cs",
               "RelativeToolTip": "UtilizandoThis\\Produto.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwAMAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T16:39:23.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\UtilizandoThis\\UtilizandoThis\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\UtilizandoThis\\UtilizandoThis\\Program.cs",
               "RelativeDocumentMoniker": "UtilizandoThis\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\UtilizandoThis\\UtilizandoThis\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\UtilizandoThis\\UtilizandoThis\\Program.cs",
               "RelativeToolTip": "UtilizandoThis\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
