@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\VetorExercicioFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E15939-08F7-48ED-BA2A-F5B4CF198BA0}|VetorExercicioFixacao\\VetorExercicioFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\memoria, array, listas\\vetorexerciciofixacao\\vetorexerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E15939-08F7-48ED-BA2A-F5B4CF198BA0}|VetorExercicioFixacao\\VetorExercicioFixacao.csproj|solutionrelative:vetorexerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E15939-08F7-48ED-BA2A-F5B4CF198BA0}|VetorExercicioFixacao\\VetorExercicioFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\memoria, array, listas\\vetorexerciciofixacao\\vetorexerciciofixacao\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E15939-08F7-48ED-BA2A-F5B4CF198BA0}|VetorExercicioFixacao\\VetorExercicioFixacao.csproj|solutionrelative:vetorexerciciofixacao\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\VetorExercicioFixacao\\VetorExercicioFixacao\\Estudante.cs",
+              "RelativeDocumentMoniker": "VetorExercicioFixacao\\Estudante.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\VetorExercicioFixacao\\VetorExercicioFixacao\\Estudante.cs",
+              "RelativeToolTip": "VetorExercicioFixacao\\Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:11:45.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\VetorExercicioFixacao\\VetorExercicioFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "VetorExercicioFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\VetorExercicioFixacao\\VetorExercicioFixacao\\Program.cs",
+              "RelativeToolTip": "VetorExercicioFixacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:53:51.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
