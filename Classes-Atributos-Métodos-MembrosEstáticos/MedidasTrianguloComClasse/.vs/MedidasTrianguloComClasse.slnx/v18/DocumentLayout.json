@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\MedidasTrianguloComClasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE2AF26-D71F-F9FE-C0B0-C59AA11EEB89}|MedidasTrianguloComClasse\\MedidasTrianguloComClasse.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\medidastriangulocomclasse\\medidastriangulocomclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE2AF26-D71F-F9FE-C0B0-C59AA11EEB89}|MedidasTrianguloComClasse\\MedidasTrianguloComClasse.csproj|solutionrelative:medidastriangulocomclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BE2AF26-D71F-F9FE-C0B0-C59AA11EEB89}|MedidasTrianguloComClasse\\MedidasTrianguloComClasse.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\medidastriangulocomclasse\\medidastriangulocomclasse\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE2AF26-D71F-F9FE-C0B0-C59AA11EEB89}|MedidasTrianguloComClasse\\MedidasTrianguloComClasse.csproj|solutionrelative:medidastriangulocomclasse\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2AF26-D71F-F9FE-C0B0-C59AA11EEB89}|MedidasTrianguloComClasse\\MedidasTrianguloComClasse.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\classes-atributos-m\u00E9todos-membrosest\u00E1ticos\\medidastriangulocomclasse\\medidastriangulocomclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2AF26-D71F-F9FE-C0B0-C59AA11EEB89}|MedidasTrianguloComClasse\\MedidasTrianguloComClasse.csproj|solutionrelative:medidastriangulocomclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Triangulo.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\MedidasTrianguloComClasse\\MedidasTrianguloComClasse\\Triangulo.cs",
               "RelativeDocumentMoniker": "MedidasTrianguloComClasse\\Triangulo.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Classes-Atributos-M\u00E9todos-MembrosEst\u00E1ticos\\MedidasTrianguloComClasse\\MedidasTrianguloComClasse\\Program.cs",
               "RelativeDocumentMoniker": "MedidasTrianguloComClasse\\Program.cs",
