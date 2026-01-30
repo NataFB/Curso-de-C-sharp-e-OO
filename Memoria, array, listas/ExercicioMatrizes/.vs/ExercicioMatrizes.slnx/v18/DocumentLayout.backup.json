@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\ExercicioMatrizes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF63441D-75A5-4B33-B82A-622570C09CF4}|ExercicioMatrizes\\ExercicioMatrizes.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\memoria, array, listas\\exerciciomatrizes\\exerciciomatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF63441D-75A5-4B33-B82A-622570C09CF4}|ExercicioMatrizes\\ExercicioMatrizes.csproj|solutionrelative:exerciciomatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\ExercicioMatrizes\\ExercicioMatrizes\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioMatrizes\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\ExercicioMatrizes\\ExercicioMatrizes\\Program.cs",
+              "RelativeToolTip": "ExercicioMatrizes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:42:32.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
