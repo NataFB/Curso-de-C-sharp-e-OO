@@ -8,7 +8,7 @@ namespace ExpressaoCondicionalTernaria
         {
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            //Expresão ternária: ( condição ) ? valor_se_verdadeiro : valor_se_falso
+            //Expresão Condicional Ternária: ( condição ) ? valor_se_verdadeiro : valor_se_falso
             double desconto = (preco < 20.0) ? preco * 0.1 : preco * 0.05;
 
             // O código acima da expresão ternaria equivale a lógica if-else comentada abaixo
