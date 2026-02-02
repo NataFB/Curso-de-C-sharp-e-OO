@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Topicos-Especiais-1\\PropriedadeTimeSpan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{922C4F80-0B84-4AF4-B77C-BBACCFFA95E9}|PropriedadeTimeSpan\\PropriedadeTimeSpan.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\topicos-especiais-1\\propriedadetimespan\\propriedadetimespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922C4F80-0B84-4AF4-B77C-BBACCFFA95E9}|PropriedadeTimeSpan\\PropriedadeTimeSpan.csproj|solutionrelative:propriedadetimespan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Topicos-Especiais-1\\PropriedadeTimeSpan\\PropriedadeTimeSpan\\Program.cs",
+              "RelativeDocumentMoniker": "PropriedadeTimeSpan\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Topicos-Especiais-1\\PropriedadeTimeSpan\\PropriedadeTimeSpan\\Program.cs",
+              "RelativeToolTip": "PropriedadeTimeSpan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:47:28.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
