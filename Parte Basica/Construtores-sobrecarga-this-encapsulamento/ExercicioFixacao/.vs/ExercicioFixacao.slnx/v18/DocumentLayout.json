@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1420221B-4A6F-78B9-4479-4E0CA2D30DC6}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\exerciciofixacao\\exerciciofixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1420221B-4A6F-78B9-4479-4E0CA2D30DC6}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\construtores-sobrecarga-this-encapsulamento\\exerciciofixacao\\exerciciofixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1420221B-4A6F-78B9-4479-4E0CA2D30DC6}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1420221B-4A6F-78B9-4479-4E0CA2D30DC6}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\exerciciofixacao\\exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1420221B-4A6F-78B9-4479-4E0CA2D30DC6}|ExercicioFixacao\\ExercicioFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\construtores-sobrecarga-this-encapsulamento\\exerciciofixacao\\exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1420221B-4A6F-78B9-4479-4E0CA2D30DC6}|ExercicioFixacao\\ExercicioFixacao.csproj|solutionrelative:exerciciofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,22 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "ExercicioFixacao\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\ContaBancaria.cs",
               "RelativeToolTip": "ExercicioFixacao\\ContaBancaria.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:55:29.354Z",
+              "WhenOpened": "2026-02-02T16:56:09.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioFixacao\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\ExercicioFixacao\\ExercicioFixacao\\Program.cs",
               "RelativeToolTip": "ExercicioFixacao\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
