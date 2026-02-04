@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\CriandoFuncao\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\L\u00F3gica-de-Programa\u00E7\u00E3o\\CriandoFuncao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF1BFCC6-78D9-4CA3-989D-895EBFCF986D}|CriandoFuncao\\CriandoFuncao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\criandofuncao\\criandofuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF1BFCC6-78D9-4CA3-989D-895EBFCF986D}|CriandoFuncao\\CriandoFuncao.csproj|solutionrelative:criandofuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37BA39FA-8AFB-1399-70D0-33188B1BC55A}|CriandoFuncao\\CriandoFuncao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\l\u00F3gica-de-programa\u00E7\u00E3o\\criandofuncao\\criandofuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BA39FA-8AFB-1399-70D0-33188B1BC55A}|CriandoFuncao\\CriandoFuncao.csproj|solutionrelative:criandofuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\CriandoFuncao\\CriandoFuncao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\L\u00F3gica-de-Programa\u00E7\u00E3o\\CriandoFuncao\\CriandoFuncao\\Program.cs",
               "RelativeDocumentMoniker": "CriandoFuncao\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\CriandoFuncao\\CriandoFuncao\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\L\u00F3gica-de-Programa\u00E7\u00E3o\\CriandoFuncao\\CriandoFuncao\\Program.cs",
               "RelativeToolTip": "CriandoFuncao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
