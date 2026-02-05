@@ -5,6 +5,7 @@ namespace ExercicioContratoTrabalhador.Entities
 {
     class Worker
     {
+        // Criando Classe Trabalhador com propriedades Nome, Nivel, SalarioBase, Departamento e Contratos
         public String Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
@@ -15,6 +16,7 @@ namespace ExercicioContratoTrabalhador.Entities
         {
         }
 
+        //Iniciando sem os contratos na construção do objeto para serem adicionados depois
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
         {
             Name = name;
@@ -23,6 +25,7 @@ namespace ExercicioContratoTrabalhador.Entities
             Department = department;
         }
 
+        //Métodos para adicionar e remover contratos
         public void AddContract(HourContract contract)
         {
             Contracts.Add(contract);
@@ -33,6 +36,7 @@ namespace ExercicioContratoTrabalhador.Entities
             Contracts.Remove(contract); 
         }
 
+        //Método para calcular o rendimento do trabalhador em um determinado mês e ano
         public double Income(int year, int month)
         {
             double sum = BaseSalary;

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciocontratotrabalhador\\exerciciocontratotrabalhador\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8846FC3E-5F97-D6AB-0F4D-A809810F0BFE}|ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador.csproj|solutionrelative:exerciciocontratotrabalhador\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,66 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Worker.cs",
-              "RelativeDocumentMoniker": "ExercicioContratoTrabalhador\\Entities\\Worker.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Worker.cs",
-              "RelativeToolTip": "ExercicioContratoTrabalhador\\Entities\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:16:26.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WorkerLevel.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Enums\\WorkerLevel.cs",
               "RelativeDocumentMoniker": "ExercicioContratoTrabalhador\\Entities\\Enums\\WorkerLevel.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Enums\\WorkerLevel.cs",
               "RelativeToolTip": "ExercicioContratoTrabalhador\\Entities\\Enums\\WorkerLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T14:17:52.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HourContract.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\HourContract.cs",
               "RelativeDocumentMoniker": "ExercicioContratoTrabalhador\\Entities\\HourContract.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\HourContract.cs",
               "RelativeToolTip": "ExercicioContratoTrabalhador\\Entities\\HourContract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:11:45.159Z"
+              "WhenOpened": "2026-02-03T14:11:45.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "ExercicioContratoTrabalhador\\Entities\\Department.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Department.cs",
               "RelativeToolTip": "ExercicioContratoTrabalhador\\Entities\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T14:09:11.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioContratoTrabalhador\\Program.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Program.cs",
               "RelativeToolTip": "ExercicioContratoTrabalhador\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwDEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T14:04:01.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ExercicioContratoTrabalhador\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioContratoTrabalhador\\ExercicioContratoTrabalhador\\Entities\\Worker.cs",
+              "RelativeToolTip": "ExercicioContratoTrabalhador\\Entities\\Worker.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:16:26.023Z",
               "EditorCaption": ""
             }
           ]

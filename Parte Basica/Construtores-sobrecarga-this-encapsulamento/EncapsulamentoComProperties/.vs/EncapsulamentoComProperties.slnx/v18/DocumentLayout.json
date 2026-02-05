@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1743C2BD-15CB-74D6-EB12-54ACA14CBBFE}|EncapsulamentoComProperties\\EncapsulamentoComProperties.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\encapsulamentocomproperties\\encapsulamentocomproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1743C2BD-15CB-74D6-EB12-54ACA14CBBFE}|EncapsulamentoComProperties\\EncapsulamentoComProperties.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\construtores-sobrecarga-this-encapsulamento\\encapsulamentocomproperties\\encapsulamentocomproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1743C2BD-15CB-74D6-EB12-54ACA14CBBFE}|EncapsulamentoComProperties\\EncapsulamentoComProperties.csproj|solutionrelative:encapsulamentocomproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1743C2BD-15CB-74D6-EB12-54ACA14CBBFE}|EncapsulamentoComProperties\\EncapsulamentoComProperties.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\encapsulamentocomproperties\\encapsulamentocomproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1743C2BD-15CB-74D6-EB12-54ACA14CBBFE}|EncapsulamentoComProperties\\EncapsulamentoComProperties.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\construtores-sobrecarga-this-encapsulamento\\encapsulamentocomproperties\\encapsulamentocomproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1743C2BD-15CB-74D6-EB12-54ACA14CBBFE}|EncapsulamentoComProperties\\EncapsulamentoComProperties.csproj|solutionrelative:encapsulamentocomproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Produto.cs",
               "RelativeDocumentMoniker": "EncapsulamentoComProperties\\Produto.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Produto.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Produto.cs",
               "RelativeToolTip": "EncapsulamentoComProperties\\Produto.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwAcAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T13:23:35.681Z",
               "EditorCaption": ""
@@ -37,13 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Program.cs",
               "RelativeDocumentMoniker": "EncapsulamentoComProperties\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Construtores-sobrecarga-this-encapsulamento\\EncapsulamentoComProperties\\EncapsulamentoComProperties\\Program.cs",
               "RelativeToolTip": "EncapsulamentoComProperties\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T13:20:23.124Z"
+              "WhenOpened": "2026-01-26T13:20:23.124Z",
+              "EditorCaption": ""
             }
           ]
         }

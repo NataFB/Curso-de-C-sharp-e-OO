@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\Listas\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Memoria, array, listas\\Listas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D427660-EBE1-FE61-CD80-144B4F5AD2F0}|Listas\\Listas.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\memoria, array, listas\\listas\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D427660-EBE1-FE61-CD80-144B4F5AD2F0}|Listas\\Listas.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\memoria, array, listas\\listas\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D427660-EBE1-FE61-CD80-144B4F5AD2F0}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\Listas\\Listas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Memoria, array, listas\\Listas\\Listas\\Program.cs",
               "RelativeDocumentMoniker": "Listas\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Memoria, array, listas\\Listas\\Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Memoria, array, listas\\Listas\\Listas\\Program.cs",
               "RelativeToolTip": "Listas\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

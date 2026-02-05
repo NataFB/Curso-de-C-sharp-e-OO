@@ -1,5 +1,6 @@
 ﻿namespace ExercicioContratoTrabalhador.Entities.Enums
 {
+    //Enumeração dos níveis do trabalhador
     enum WorkerLevel : int
     {
         Junior = 0,

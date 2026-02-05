@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ExercicioContratoTrabalhador.Entities
+﻿namespace ExercicioContratoTrabalhador.Entities
 {
     class Department
     {
+        //Classe Departamento com propriedade Nome
         public String Name { get; set; }
 
         public Department()

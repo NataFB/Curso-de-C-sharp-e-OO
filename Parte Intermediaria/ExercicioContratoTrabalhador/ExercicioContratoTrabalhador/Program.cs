@@ -8,6 +8,7 @@ namespace ExercicioContratoTrabalhador
     {
         static void Main(string[] args)
         {
+            //Entrada de dados do trabalhador e departamento
             Console.Write("Enter department´s name: ");
             string deptName = Console.ReadLine();
             Console.WriteLine("Enter worker data: ");
@@ -18,12 +19,14 @@ namespace ExercicioContratoTrabalhador
             Console.Write("Base salary: ");
             double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            //instanciação do objeto trabalhador
             Department dept = new Department(deptName);
             Worker worker = new Worker(name, level, baseSalary, dept);
 
             Console.WriteLine("How many contracts to this worker? ");
             int n = int.Parse(Console.ReadLine());
 
+            //Entrada de dados dos contratos
             for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine($"Enter #{i} contract data:");
@@ -37,6 +40,7 @@ namespace ExercicioContratoTrabalhador
                 worker.AddContract(contract);
             }
 
+            //Calculo de Rendimento mês/ano
             Console.WriteLine();
             Console.Write("Enter month and year to calculate income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine();

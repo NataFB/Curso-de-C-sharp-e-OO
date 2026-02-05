@@ -2,6 +2,7 @@
 {
     internal class Calculator
     {
+        // aceita diversos argumentos
         public static int Sum(params int[] numbers)
         {
             int sum = 0;

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Construtores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49639718-3D3D-D652-A2B7-B03D4DA92299}|Construtores\\Construtores.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\construtores\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49639718-3D3D-D652-A2B7-B03D4DA92299}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49639718-3D3D-D652-A2B7-B03D4DA92299}|Construtores\\Construtores.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\construtores\\construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49639718-3D3D-D652-A2B7-B03D4DA92299}|Construtores\\Construtores.csproj|solutionrelative:construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49639718-3D3D-D652-A2B7-B03D4DA92299}|Construtores\\Construtores.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\construtores-sobrecarga-this-encapsulamento\\construtores\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49639718-3D3D-D652-A2B7-B03D4DA92299}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Construtores\\Construtores\\Produto.cs",
               "RelativeDocumentMoniker": "Construtores\\Produto.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Construtores\\Construtores\\Produto.cs",
               "RelativeToolTip": "Construtores\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T14:25:51.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Construtores-sobrecarga-this-encapsulamento\\Construtores\\Construtores\\Program.cs",
               "RelativeDocumentMoniker": "Construtores\\Program.cs",

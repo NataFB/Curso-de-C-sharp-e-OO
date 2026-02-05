@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\L\u00F3gica-de-Programa\u00E7\u00E3o\\For-Each\\",
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Memoria, array, listas\\For-Each\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57150C68-F088-41DA-BC0D-F4B70B73455C}|For-Each\\For-Each.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\l\u00F3gica-de-programa\u00E7\u00E3o\\for-each\\for-each\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57150C68-F088-41DA-BC0D-F4B70B73455C}|For-Each\\For-Each.csproj|solutionrelative:for-each\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F33EF655-C884-B7F1-6A15-4F0812C43ED6}|For-Each\\For-Each.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte basica\\memoria, array, listas\\for-each\\for-each\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF655-C884-B7F1-6A15-4F0812C43ED6}|For-Each\\For-Each.csproj|solutionrelative:for-each\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\L\u00F3gica-de-Programa\u00E7\u00E3o\\For-Each\\For-Each\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Memoria, array, listas\\For-Each\\For-Each\\Program.cs",
               "RelativeDocumentMoniker": "For-Each\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\L\u00F3gica-de-Programa\u00E7\u00E3o\\For-Each\\For-Each\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Basica\\Memoria, array, listas\\For-Each\\For-Each\\Program.cs",
               "RelativeToolTip": "For-Each\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
