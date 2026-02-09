@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1881EE7D-6616-46F7-9926-709195BB062E}|ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciotrabalhadorheranca\\exerciciotrabalhadorheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881EE7D-6616-46F7-9926-709195BB062E}|ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca.csproj|solutionrelative:exerciciotrabalhadorheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881EE7D-6616-46F7-9926-709195BB062E}|ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciotrabalhadorheranca\\exerciciotrabalhadorheranca\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881EE7D-6616-46F7-9926-709195BB062E}|ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca.csproj|solutionrelative:exerciciotrabalhadorheranca\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1881EE7D-6616-46F7-9926-709195BB062E}|ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciotrabalhadorheranca\\exerciciotrabalhadorheranca\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1881EE7D-6616-46F7-9926-709195BB062E}|ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca.csproj|solutionrelative:exerciciotrabalhadorheranca\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "ExercicioTrabalhadorHeranca\\Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "ExercicioTrabalhadorHeranca\\Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:25:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioTrabalhadorHeranca\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca\\Entities\\Employee.cs",
+              "RelativeToolTip": "ExercicioTrabalhadorHeranca\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:22:07.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioTrabalhadorHeranca\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioTrabalhadorHeranca\\ExercicioTrabalhadorHeranca\\Program.cs",
+              "RelativeToolTip": "ExercicioTrabalhadorHeranca\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:16:29.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

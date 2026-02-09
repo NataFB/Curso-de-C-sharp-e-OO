@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\sobreposicao\\sobreposicao\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\sobreposicao\\sobreposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\sobreposicao\\sobreposicao\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\sobreposicao\\sobreposicao\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F56CCB-018B-42ED-D59E-0FE2A2BE2E5E}|Sobreposicao\\Sobreposicao.csproj|solutionrelative:sobreposicao\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BussinesAccount.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Entities\\BussinesAccount.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Entities\\BussinesAccount.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Entities\\BussinesAccount.cs",
+              "RelativeToolTip": "Sobreposicao\\Entities\\BussinesAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:59:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Sobreposicao\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAyAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:59:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Entities\\Account.cs",
+              "RelativeToolTip": "Sobreposicao\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:59:21.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Program.cs",
+              "RelativeDocumentMoniker": "Sobreposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Sobreposicao\\Sobreposicao\\Program.cs",
+              "RelativeToolTip": "Sobreposicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:42:33.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

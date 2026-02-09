@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioStringBuilder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9C183F4-FF08-4503-A986-54E16F690F02}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciostringbuilder\\exerciciostringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C183F4-FF08-4503-A986-54E16F690F02}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|solutionrelative:exerciciostringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42EFEBA-3800-5116-AF5F-EB943B2D1E58}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciostringbuilder\\exerciciostringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42EFEBA-3800-5116-AF5F-EB943B2D1E58}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|solutionrelative:exerciciostringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C183F4-FF08-4503-A986-54E16F690F02}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciostringbuilder\\exerciciostringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C183F4-FF08-4503-A986-54E16F690F02}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|solutionrelative:exerciciostringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42EFEBA-3800-5116-AF5F-EB943B2D1E58}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciostringbuilder\\exerciciostringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42EFEBA-3800-5116-AF5F-EB943B2D1E58}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|solutionrelative:exerciciostringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C183F4-FF08-4503-A986-54E16F690F02}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciostringbuilder\\exerciciostringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C183F4-FF08-4503-A986-54E16F690F02}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|solutionrelative:exerciciostringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42EFEBA-3800-5116-AF5F-EB943B2D1E58}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciostringbuilder\\exerciciostringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42EFEBA-3800-5116-AF5F-EB943B2D1E58}|ExercicioStringBuilder\\ExercicioStringBuilder.csproj|solutionrelative:exerciciostringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ExercicioStringBuilder\\Entities\\Post.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioStringBuilder\\ExercicioStringBuilder\\Entities\\Post.cs",
               "RelativeToolTip": "ExercicioStringBuilder\\Entities\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T12:44:35.699Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "ExercicioStringBuilder\\Program.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioStringBuilder\\ExercicioStringBuilder\\Program.cs",
               "RelativeToolTip": "ExercicioStringBuilder\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T12:38:36.465Z",
               "EditorCaption": ""

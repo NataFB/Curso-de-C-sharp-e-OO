@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA286E-4AB4-4A9B-BDFD-803C1932AEBB}|Heranca\\Heranca.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA286E-4AB4-4A9B-BDFD-803C1932AEBB}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA286E-4AB4-4A9B-BDFD-803C1932AEBB}|Heranca\\Heranca.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\heranca\\heranca\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA286E-4AB4-4A9B-BDFD-803C1932AEBB}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECA286E-4AB4-4A9B-BDFD-803C1932AEBB}|Heranca\\Heranca.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\heranca\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECA286E-4AB4-4A9B-BDFD-803C1932AEBB}|Heranca\\Heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\Heranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\Heranca\\Entities\\Account.cs",
+              "RelativeToolTip": "Heranca\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:29:06.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BussinesAccount.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\Heranca\\Entities\\BussinesAccount.cs",
+              "RelativeDocumentMoniker": "Heranca\\Entities\\BussinesAccount.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\Heranca\\Entities\\BussinesAccount.cs",
+              "RelativeToolTip": "Heranca\\Entities\\BussinesAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:32:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Heranca\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T12:28:37.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\upcastingdowncasting\\upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\upcastingdowncasting\\upcastingdowncasting\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\bussinesaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\upcastingdowncasting\\upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\upcastingdowncasting\\upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BB9962-4C76-33A8-1C70-0A457BB1351E}|UpcastingDowncasting\\UpcastingDowncasting.csproj|solutionrelative:upcastingdowncasting\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:03:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BussinesAccount.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\BussinesAccount.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\BussinesAccount.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\BussinesAccount.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\BussinesAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:02:36.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Entities\\Account.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:02:32.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Program.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncasting\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\UpcastingDowncasting\\UpcastingDowncasting\\Program.cs",
+              "RelativeToolTip": "UpcastingDowncasting\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:01:31.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

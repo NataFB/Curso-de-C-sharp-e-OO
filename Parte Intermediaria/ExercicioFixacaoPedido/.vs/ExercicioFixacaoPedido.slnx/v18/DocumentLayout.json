@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{865F9380-D1BA-4088-976A-061801ECB00D}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaopedido\\exerciciofixacaopedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9A141-4A25-A0E3-22BF-4066EF6F6523}|ExercicioFixacaoPedido\\ExercicioFixacaoPedido.csproj|solutionrelative:exerciciofixacaopedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "ExercicioFixacaoPedido\\Entities\\Order.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Entities\\Order.cs",
               "RelativeToolTip": "ExercicioFixacaoPedido\\Entities\\Order.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwAAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T13:48:29.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "ExercicioFixacaoPedido\\Entities\\OrderItem.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "ExercicioFixacaoPedido\\Entities\\Client.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ExercicioFixacaoPedido\\Entities\\Product.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "ExercicioFixacaoPedido\\Entities\\Enums\\OrderStatus.cs",
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioFixacaoPedido\\Program.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoPedido\\ExercicioFixacaoPedido\\Program.cs",
               "RelativeToolTip": "ExercicioFixacaoPedido\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T13:20:08.976Z",
               "EditorCaption": ""
