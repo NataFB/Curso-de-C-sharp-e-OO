@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoProdutoImportado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAE57865-B6A1-4B5F-ACD0-3F141E3608F1}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaoprodutoimportado\\fixacaoprodutoimportado\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E769A2-1EA3-3FCB-D16C-7B272C88EA67}|FixacaoProdutoImportado\\FixacaoProdutoImportado.csproj|solutionrelative:fixacaoprodutoimportado\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UsedProduct.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoProdutoImportado\\FixacaoProdutoImportado\\Entities\\UsedProduct.cs",
               "RelativeDocumentMoniker": "FixacaoProdutoImportado\\Entities\\UsedProduct.cs",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "FixacaoProdutoImportado\\Entities\\UsedProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:37:21.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T12:37:21.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ImportedProduct.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoProdutoImportado\\FixacaoProdutoImportado\\Entities\\ImportedProduct.cs",
               "RelativeDocumentMoniker": "FixacaoProdutoImportado\\Entities\\ImportedProduct.cs",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "FixacaoProdutoImportado\\Entities\\ImportedProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:15:09.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T12:15:09.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoProdutoImportado\\FixacaoProdutoImportado\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "FixacaoProdutoImportado\\Entities\\Product.cs",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "FixacaoProdutoImportado\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:12:46.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T12:12:46.458Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "FixacaoProdutoImportado\\Program.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoProdutoImportado\\FixacaoProdutoImportado\\Program.cs",
               "RelativeToolTip": "FixacaoProdutoImportado\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T12:11:24.072Z",
               "EditorCaption": ""

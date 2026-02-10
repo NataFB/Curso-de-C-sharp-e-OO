@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\m\u00E9todosabstratos\\m\u00E9todosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|solutionrelative:m\u00E9todosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\m\u00E9todosabstratos\\m\u00E9todosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|solutionrelative:m\u00E9todosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\m\u00E9todosabstratos\\m\u00E9todosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|solutionrelative:m\u00E9todosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\m\u00E9todosabstratos\\m\u00E9todosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|solutionrelative:m\u00E9todosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\m\u00E9todosabstratos\\m\u00E9todosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8AEDE-B597-42F4-877C-B129C2DE37F5}|M\u00E9todosAbstratos\\M\u00E9todosAbstratos.csproj|solutionrelative:m\u00E9todosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "M\u00E9todosAbstratos\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Circle.cs*",
+              "RelativeToolTip": "M\u00E9todosAbstratos\\Entities\\Circle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:12:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "M\u00E9todosAbstratos\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "M\u00E9todosAbstratos\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:59:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "M\u00E9todosAbstratos\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Enums\\Color.cs*",
+              "RelativeToolTip": "M\u00E9todosAbstratos\\Entities\\Enums\\Color.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:53:41.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "M\u00E9todosAbstratos\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Entities\\Shape.cs*",
+              "RelativeToolTip": "M\u00E9todosAbstratos\\Entities\\Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:52:05.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "M\u00E9todosAbstratos\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\M\u00E9todosAbstratos\\M\u00E9todosAbstratos\\Program.cs",
+              "RelativeToolTip": "M\u00E9todosAbstratos\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:48:49.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

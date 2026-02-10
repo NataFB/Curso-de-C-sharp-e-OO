@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaotax\\fixacaotax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|solutionrelative:fixacaotax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaotax\\fixacaotax\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|solutionrelative:fixacaotax\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaotax\\fixacaotax\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|solutionrelative:fixacaotax\\entities\\individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\fixacaotax\\fixacaotax\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC95C54-E41A-4318-9270-03DC516CC2A9}|FixacaoTax\\FixacaoTax.csproj|solutionrelative:fixacaotax\\entities\\taxpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "FixacaoTax\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Entities\\Company.cs",
+              "RelativeToolTip": "FixacaoTax\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:25:54.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Individual.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Entities\\Individual.cs",
+              "RelativeDocumentMoniker": "FixacaoTax\\Entities\\Individual.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Entities\\Individual.cs",
+              "RelativeToolTip": "FixacaoTax\\Entities\\Individual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:19:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taxpayer.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Entities\\Taxpayer.cs",
+              "RelativeDocumentMoniker": "FixacaoTax\\Entities\\Taxpayer.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Entities\\Taxpayer.cs",
+              "RelativeToolTip": "FixacaoTax\\Entities\\Taxpayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:15:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Program.cs",
+              "RelativeDocumentMoniker": "FixacaoTax\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\FixacaoTax\\FixacaoTax\\Program.cs",
+              "RelativeToolTip": "FixacaoTax\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:14:55.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
