@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Trabalhando com arquivos\\UsandoFileeFileInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB56480C-5BBC-4903-B67F-41A45A208357}|UsandoFileeFileInfo\\UsandoFileeFileInfo.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\trabalhando com arquivos\\usandofileefileinfo\\usandofileefileinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB56480C-5BBC-4903-B67F-41A45A208357}|UsandoFileeFileInfo\\UsandoFileeFileInfo.csproj|solutionrelative:usandofileefileinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Trabalhando com arquivos\\UsandoFileeFileInfo\\UsandoFileeFileInfo\\Program.cs",
+              "RelativeDocumentMoniker": "UsandoFileeFileInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Trabalhando com arquivos\\UsandoFileeFileInfo\\UsandoFileeFileInfo\\Program.cs",
+              "RelativeToolTip": "UsandoFileeFileInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T14:36:13.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
