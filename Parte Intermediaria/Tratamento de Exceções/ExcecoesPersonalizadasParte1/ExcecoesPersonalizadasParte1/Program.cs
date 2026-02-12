@@ -17,7 +17,8 @@ namespace ExcecoesPersonalizadasParte1
             if (checkOut <= checkIn)
             {
                 Console.WriteLine("Error in reservation: Check-out date must be after check-in date.");
-            }else
+            }
+            else
             {
                 Reservation reservation = new Reservation(roomNumber, checkIn, checkOut);
                 Console.WriteLine("Reservation: " + reservation);

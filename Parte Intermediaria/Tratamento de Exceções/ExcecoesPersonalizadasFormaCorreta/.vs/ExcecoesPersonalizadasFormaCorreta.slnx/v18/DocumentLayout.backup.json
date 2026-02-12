@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0EE9D3-328E-4417-9D90-F7E6EF649459}|ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\excecoespersonalizadasformacorreta\\excecoespersonalizadasformacorreta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0EE9D3-328E-4417-9D90-F7E6EF649459}|ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta.csproj|solutionrelative:excecoespersonalizadasformacorreta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0EE9D3-328E-4417-9D90-F7E6EF649459}|ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\excecoespersonalizadasformacorreta\\excecoespersonalizadasformacorreta\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0EE9D3-328E-4417-9D90-F7E6EF649459}|ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta.csproj|solutionrelative:excecoespersonalizadasformacorreta\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0EE9D3-328E-4417-9D90-F7E6EF649459}|ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\excecoespersonalizadasformacorreta\\excecoespersonalizadasformacorreta\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0EE9D3-328E-4417-9D90-F7E6EF649459}|ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta.csproj|solutionrelative:excecoespersonalizadasformacorreta\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadasFormaCorreta\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadasFormaCorreta\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:53:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadasFormaCorreta\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta\\Entities\\Reservation.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadasFormaCorreta\\Entities\\Reservation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:51:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta\\Program.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadasFormaCorreta\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExcecoesPersonalizadasFormaCorreta\\ExcecoesPersonalizadasFormaCorreta\\Program.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadasFormaCorreta\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:48:20.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

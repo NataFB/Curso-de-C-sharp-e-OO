@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67551B5D-3B0C-4F1D-A549-9338D8AC5E19}|ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaoexcecoes\\exerciciofixacaoexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67551B5D-3B0C-4F1D-A549-9338D8AC5E19}|ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes.csproj|solutionrelative:exerciciofixacaoexcecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67551B5D-3B0C-4F1D-A549-9338D8AC5E19}|ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaoexcecoes\\exerciciofixacaoexcecoes\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67551B5D-3B0C-4F1D-A549-9338D8AC5E19}|ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes.csproj|solutionrelative:exerciciofixacaoexcecoes\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67551B5D-3B0C-4F1D-A549-9338D8AC5E19}|ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\exerciciofixacaoexcecoes\\exerciciofixacaoexcecoes\\entities\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67551B5D-3B0C-4F1D-A549-9338D8AC5E19}|ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes.csproj|solutionrelative:exerciciofixacaoexcecoes\\entities\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes\\Entities\\Exceptions\\DomainExceptions.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoExcecoes\\Entities\\Exceptions\\DomainExceptions.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes\\Entities\\Exceptions\\DomainExceptions.cs",
+              "RelativeToolTip": "ExercicioFixacaoExcecoes\\Entities\\Exceptions\\DomainExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:34:32.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoExcecoes\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes\\Entities\\Account.cs",
+              "RelativeToolTip": "ExercicioFixacaoExcecoes\\Entities\\Account.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:33:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFixacaoExcecoes\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\ExercicioFixacaoExcecoes\\ExercicioFixacaoExcecoes\\Program.cs",
+              "RelativeToolTip": "ExercicioFixacaoExcecoes\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T13:32:58.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
