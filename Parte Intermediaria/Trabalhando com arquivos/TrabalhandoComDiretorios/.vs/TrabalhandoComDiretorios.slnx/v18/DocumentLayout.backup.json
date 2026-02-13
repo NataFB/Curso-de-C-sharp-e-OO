@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Trabalhando com arquivos\\TrabalhandoComDiretorios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F49AF6A-9EFD-4ACA-9611-C661447C3903}|TrabalhandoComDiretorios\\TrabalhandoComDiretorios.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\trabalhando com arquivos\\trabalhandocomdiretorios\\trabalhandocomdiretorios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F49AF6A-9EFD-4ACA-9611-C661447C3903}|TrabalhandoComDiretorios\\TrabalhandoComDiretorios.csproj|solutionrelative:trabalhandocomdiretorios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Trabalhando com arquivos\\TrabalhandoComDiretorios\\TrabalhandoComDiretorios\\Program.cs",
+              "RelativeDocumentMoniker": "TrabalhandoComDiretorios\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Trabalhando com arquivos\\TrabalhandoComDiretorios\\TrabalhandoComDiretorios\\Program.cs",
+              "RelativeToolTip": "TrabalhandoComDiretorios\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T13:11:39.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
