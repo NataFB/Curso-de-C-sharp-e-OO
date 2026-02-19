@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\entitites\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\entitites\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\entitites\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\entitites\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\aluguelcarrocominterfaces\\aluguelcarrocominterfaces\\entitites\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247BE129-D4A0-7931-8189-4949E0D8B366}|AluguelCarroComInterfaces\\AluguelCarroComInterfaces.csproj|solutionrelative:aluguelcarrocominterfaces\\entitites\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Services\\ITaxService.cs",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:21:12.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Services\\RentalService.cs",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Services\\RentalService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:17:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Services\\BrazilTaxService.cs*",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Services\\BrazilTaxService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:16:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Entitites\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Entitites\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Entitites\\Vehicle.cs",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Entitites\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:16:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Entitites\\Invoice.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Entitites\\Invoice.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Entitites\\Invoice.cs",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Entitites\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:16:24.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Entitites\\CarRental.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Entitites\\CarRental.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Entitites\\CarRental.cs",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Entitites\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:16:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "AluguelCarroComInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\AluguelCarroComInterfaces\\AluguelCarroComInterfaces\\Program.cs",
+              "RelativeToolTip": "AluguelCarroComInterfaces\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:13:28.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
