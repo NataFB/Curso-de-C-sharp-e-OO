@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\processamentocontratofixacao\\processamentocontratofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|solutionrelative:processamentocontratofixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\processamentocontratofixacao\\processamentocontratofixacao\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|solutionrelative:processamentocontratofixacao\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\processamentocontratofixacao\\processamentocontratofixacao\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|solutionrelative:processamentocontratofixacao\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\processamentocontratofixacao\\processamentocontratofixacao\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|solutionrelative:processamentocontratofixacao\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\processamentocontratofixacao\\processamentocontratofixacao\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|solutionrelative:processamentocontratofixacao\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\processamentocontratofixacao\\processamentocontratofixacao\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E675C5C2-4F82-4D06-BC82-4B98FB403DA4}|ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao.csproj|solutionrelative:processamentocontratofixacao\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "ProcessamentoContratoFixacao\\Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Services\\PaypalService.cs",
+              "RelativeToolTip": "ProcessamentoContratoFixacao\\Services\\PaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:42:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Services\\IOnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "ProcessamentoContratoFixacao\\Services\\IOnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Services\\IOnlinePaymentService.cs",
+              "RelativeToolTip": "ProcessamentoContratoFixacao\\Services\\IOnlinePaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:37:48.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "ProcessamentoContratoFixacao\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Services\\ContractService.cs",
+              "RelativeToolTip": "ProcessamentoContratoFixacao\\Services\\ContractService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:35:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "ProcessamentoContratoFixacao\\Entities\\Installment.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Entities\\Installment.cs",
+              "RelativeToolTip": "ProcessamentoContratoFixacao\\Entities\\Installment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:53:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "ProcessamentoContratoFixacao\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Entities\\Contract.cs",
+              "RelativeToolTip": "ProcessamentoContratoFixacao\\Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:52:59.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessamentoContratoFixacao\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ProcessamentoContratoFixacao\\ProcessamentoContratoFixacao\\Program.cs",
+              "RelativeToolTip": "ProcessamentoContratoFixacao\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:37:35.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
