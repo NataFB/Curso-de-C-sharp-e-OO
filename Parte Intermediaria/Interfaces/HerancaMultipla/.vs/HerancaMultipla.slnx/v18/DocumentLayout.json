@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\herancamultipla\\herancamultipla\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44C962E-5AC4-4477-B89D-B3CCB5810359}|HerancaMultipla\\HerancaMultipla.csproj|solutionrelative:herancamultipla\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\IPrinter.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\IPrinter.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:07:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\IScanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\IScanner.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\IScanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\IScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:06:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\ComboDevice.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\ComboDevice.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\ComboDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:58:51.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\Printer.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\Printer.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\Printer.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:19:59.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\Device.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\Device.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\Device.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:12:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\Scanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Devices\\Scanner.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Devices\\Scanner.cs",
+              "RelativeToolTip": "HerancaMultipla\\Devices\\Scanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:12:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaMultipla\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\HerancaMultipla\\HerancaMultipla\\Program.cs",
+              "RelativeToolTip": "HerancaMultipla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:11:48.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
