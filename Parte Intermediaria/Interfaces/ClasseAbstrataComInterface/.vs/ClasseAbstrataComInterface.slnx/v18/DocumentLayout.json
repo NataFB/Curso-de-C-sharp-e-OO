@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5185196-EEEF-4410-A2B7-0BE5E7903AB6}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\interfaces\\classeabstratacominterface\\classeabstratacominterface\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E6998D-5DBF-EC9F-9C7B-A827CD39AFF7}|ClasseAbstrataComInterface\\ClasseAbstrataComInterface.csproj|solutionrelative:classeabstratacominterface\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,33 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Program.cs",
-              "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Program.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Program.cs",
-              "RelativeToolTip": "ClasseAbstrataComInterface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
+              "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
+              "RelativeToolTip": "ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T16:11:56.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AbstractShape.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
-              "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
-              "RelativeToolTip": "ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T16:15:12.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:17:42.564Z"
             },
             {
               "$type": "Bookmark",
@@ -76,7 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Program.cs",
+              "RelativeToolTip": "ClasseAbstrataComInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:11:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
+              "RelativeToolTip": "ClasseAbstrataComInterface\\Model\\Entities\\AbstractShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:15:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\Rectangle.cs",
               "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Entities\\Rectangle.cs",
@@ -89,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\Circle.cs",
               "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Entities\\Circle.cs",
@@ -102,20 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IShape.cs",
-              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
-              "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
-              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
-              "RelativeToolTip": "ClasseAbstrataComInterface\\Model\\Entities\\IShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T16:17:42.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Color.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Interfaces\\ClasseAbstrataComInterface\\ClasseAbstrataComInterface\\Model\\Enums\\Color.cs",
               "RelativeDocumentMoniker": "ClasseAbstrataComInterface\\Model\\Enums\\Color.cs",
