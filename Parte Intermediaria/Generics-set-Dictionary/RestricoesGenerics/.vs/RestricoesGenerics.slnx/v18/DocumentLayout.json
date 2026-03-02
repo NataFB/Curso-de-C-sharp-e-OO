@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6A5A93-5E84-4D28-9DC6-2AC77729EA37}|RestricoesGenerics\\RestricoesGenerics.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\restricoesgenerics\\restricoesgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6A5A93-5E84-4D28-9DC6-2AC77729EA37}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6A5A93-5E84-4D28-9DC6-2AC77729EA37}|RestricoesGenerics\\RestricoesGenerics.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\restricoesgenerics\\restricoesgenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6A5A93-5E84-4D28-9DC6-2AC77729EA37}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6A5A93-5E84-4D28-9DC6-2AC77729EA37}|RestricoesGenerics\\RestricoesGenerics.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\restricoesgenerics\\restricoesgenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6A5A93-5E84-4D28-9DC6-2AC77729EA37}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T15:06:07.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\RestricoesGenerics\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\RestricoesGenerics\\Services\\CalculationService.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:46:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:33:24.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
