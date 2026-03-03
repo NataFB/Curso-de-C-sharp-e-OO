@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\HashSetSortedSet2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB84E99-C766-43BA-8218-33964E1EAE37}|HashSetSortedSet2\\HashSetSortedSet2.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\hashsetsortedset2\\hashsetsortedset2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB84E99-C766-43BA-8218-33964E1EAE37}|HashSetSortedSet2\\HashSetSortedSet2.csproj|solutionrelative:hashsetsortedset2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\HashSetSortedSet2\\HashSetSortedSet2\\Program.cs",
+              "RelativeDocumentMoniker": "HashSetSortedSet2\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\HashSetSortedSet2\\HashSetSortedSet2\\Program.cs*",
+              "RelativeToolTip": "HashSetSortedSet2\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:38:39.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
