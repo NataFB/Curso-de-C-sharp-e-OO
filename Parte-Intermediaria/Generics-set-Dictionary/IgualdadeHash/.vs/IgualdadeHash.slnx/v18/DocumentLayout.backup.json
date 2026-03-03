@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7DA01-EEA7-45AD-9E79-CB94D428FCDC}|IgualdadeHash\\IgualdadeHash.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\igualdadehash\\igualdadehash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7DA01-EEA7-45AD-9E79-CB94D428FCDC}|IgualdadeHash\\IgualdadeHash.csproj|solutionrelative:igualdadehash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7DA01-EEA7-45AD-9E79-CB94D428FCDC}|IgualdadeHash\\IgualdadeHash.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\igualdadehash\\igualdadehash\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7DA01-EEA7-45AD-9E79-CB94D428FCDC}|IgualdadeHash\\IgualdadeHash.csproj|solutionrelative:igualdadehash\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A7DA01-EEA7-45AD-9E79-CB94D428FCDC}|IgualdadeHash\\IgualdadeHash.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte intermediaria\\generics-set-dictionary\\igualdadehash\\igualdadehash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A7DA01-EEA7-45AD-9E79-CB94D428FCDC}|IgualdadeHash\\IgualdadeHash.csproj|solutionrelative:igualdadehash\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\IgualdadeHash\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "IgualdadeHash\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\IgualdadeHash\\Entities\\Product.cs",
+              "RelativeToolTip": "IgualdadeHash\\Entities\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:33:59.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\IgualdadeHash\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "IgualdadeHash\\Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\IgualdadeHash\\Entities\\Point.cs",
+              "RelativeToolTip": "IgualdadeHash\\Entities\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:32:23.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\IgualdadeHash\\Program.cs",
+              "RelativeDocumentMoniker": "IgualdadeHash\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte Intermediaria\\Generics-set-Dictionary\\IgualdadeHash\\IgualdadeHash\\Program.cs*",
+              "RelativeToolTip": "IgualdadeHash\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:09:50.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
