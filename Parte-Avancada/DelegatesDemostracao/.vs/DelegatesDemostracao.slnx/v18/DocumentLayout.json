@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegatesDemostracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAB11A8-D430-4C45-ACD2-3B54198AD7FE}|DelegatesDemostracao\\DelegatesDemostracao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\delegatesdemostracao\\delegatesdemostracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAB11A8-D430-4C45-ACD2-3B54198AD7FE}|DelegatesDemostracao\\DelegatesDemostracao.csproj|solutionrelative:delegatesdemostracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAB11A8-D430-4C45-ACD2-3B54198AD7FE}|DelegatesDemostracao\\DelegatesDemostracao.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\delegatesdemostracao\\delegatesdemostracao\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAB11A8-D430-4C45-ACD2-3B54198AD7FE}|DelegatesDemostracao\\DelegatesDemostracao.csproj|solutionrelative:delegatesdemostracao\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegatesDemostracao\\DelegatesDemostracao\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "DelegatesDemostracao\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegatesDemostracao\\DelegatesDemostracao\\Services\\CalculationService.cs",
+              "RelativeToolTip": "DelegatesDemostracao\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:38:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegatesDemostracao\\DelegatesDemostracao\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesDemostracao\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegatesDemostracao\\DelegatesDemostracao\\Program.cs",
+              "RelativeToolTip": "DelegatesDemostracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:37:14.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
