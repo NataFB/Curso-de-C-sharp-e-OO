@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegateFunc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA761BBC-79DA-4DD2-B9F8-82E83C67C0ED}|DelegateFunc\\DelegateFunc.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\delegatefunc\\delegatefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA761BBC-79DA-4DD2-B9F8-82E83C67C0ED}|DelegateFunc\\DelegateFunc.csproj|solutionrelative:delegatefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA761BBC-79DA-4DD2-B9F8-82E83C67C0ED}|DelegateFunc\\DelegateFunc.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\delegatefunc\\delegatefunc\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA761BBC-79DA-4DD2-B9F8-82E83C67C0ED}|DelegateFunc\\DelegateFunc.csproj|solutionrelative:delegatefunc\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegateFunc\\DelegateFunc\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "DelegateFunc\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegateFunc\\DelegateFunc\\Entities\\Product.cs",
+              "RelativeToolTip": "DelegateFunc\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:18:37.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegateFunc\\DelegateFunc\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateFunc\\Program.cs",
+              "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\DelegateFunc\\DelegateFunc\\Program.cs",
+              "RelativeToolTip": "DelegateFunc\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:14:25.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
