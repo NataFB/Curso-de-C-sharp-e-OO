@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|solutionrelative:linqcomlambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\linqcomlambda\\linqcomlambda\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|solutionrelative:linqcomlambda\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\linqcomlambda\\linqcomlambda\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|solutionrelative:linqcomlambda\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|c:\\users\\nataf\\onedrive\\documentos\\curso-de-c-sharp-e-oo\\parte-avancada\\linqcomlambda\\linqcomlambda\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D0E661-CF72-8898-89BE-CC3CA2C43E8C}|LinqComLambda\\LinqComLambda.csproj|solutionrelative:linqcomlambda\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +38,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\LinqComLambda\\LinqComLambda\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "LinqComLambda\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\LinqComLambda\\LinqComLambda\\Entities\\Category.cs",
               "RelativeToolTip": "LinqComLambda\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T13:58:39.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\LinqComLambda\\LinqComLambda\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "LinqComLambda\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\LinqComLambda\\LinqComLambda\\Entities\\Product.cs",
               "RelativeToolTip": "LinqComLambda\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T13:58:25.542Z"
+              "WhenOpened": "2026-04-06T13:58:25.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,7 +70,7 @@
               "RelativeDocumentMoniker": "LinqComLambda\\Program.cs",
               "ToolTip": "C:\\Users\\nataf\\OneDrive\\Documentos\\Curso-de-C-sharp-e-OO\\Parte-Avancada\\LinqComLambda\\LinqComLambda\\Program.cs",
               "RelativeToolTip": "LinqComLambda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T13:57:13.775Z",
               "EditorCaption": ""
